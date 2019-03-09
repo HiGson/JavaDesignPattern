@@ -1,6 +1,1 @@
-# observer_pattern
-观察者模式的简单实现
-
-observer包下自定义接口来实现观察者模式
-
-bserver2包下使用java系统api来实现观察者模式
+Java设计模式
