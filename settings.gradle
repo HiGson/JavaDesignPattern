@@ -1,1 +1,1 @@
-include ':observer_pattern', ':pattern01_simple_pattern', ':pattern02_factory_methord_pattern', ':pattern03_abstract_factory_pattern'
+include ':observer_pattern', ':pattern01_simple_pattern', ':pattern02_factory_methord_pattern', ':pattern03_abstract_factory_pattern', ':pattern04_single_instance_pattern'
