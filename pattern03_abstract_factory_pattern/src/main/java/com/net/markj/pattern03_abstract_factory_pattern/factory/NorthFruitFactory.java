@@ -7,7 +7,7 @@ import com.net.markj.pattern03_abstract_factory_pattern.inter.FruitFactory;
 
 /**
  * Created by Kron Xu on 2019/3/9 12:56
- * Description:
+ * Description: 对应产品簇，表示获取北方水果
  */
 public class NorthFruitFactory implements FruitFactory {
     @Override

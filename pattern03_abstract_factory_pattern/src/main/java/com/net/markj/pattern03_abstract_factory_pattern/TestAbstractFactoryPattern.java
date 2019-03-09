@@ -6,7 +6,7 @@ import com.net.markj.pattern03_abstract_factory_pattern.inter.FruitFactory;
 
 /**
  * Created by Kron Xu on 2019/3/9 13:02
- * Description:
+ * Description: 抽象工厂方法模式中，方法对应产品结构，具体工厂对应产品簇
  */
 public class TestAbstractFactoryPattern {
     public static void main(String []args){
