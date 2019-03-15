@@ -1,6 +1,6 @@
 package com.net.markj.pattern03_abstract_factory_pattern.factory;
 
-import com.net.markj.pattern03_abstract_factory_pattern.iml.NorthBanana;
+import com.net.markj.pattern03_abstract_factory_pattern.iml.products.NorthBanana;
 import com.net.markj.pattern03_abstract_factory_pattern.iml.products.NorthApple;
 import com.net.markj.pattern03_abstract_factory_pattern.inter.Fruit;
 import com.net.markj.pattern03_abstract_factory_pattern.inter.FruitFactory;
